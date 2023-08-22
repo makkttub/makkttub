@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makkttub
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter and node.js
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on anything :D
 - 📫 How to reach me ariadna.v@outlook.com.ar
 
